@@ -1,0 +1,10 @@
+com\mycompany\fawryinternshiptask\Product.class
+com\mycompany\fawryinternshiptask\main.class
+com\mycompany\fawryinternshiptask\Shippable.class
+com\mycompany\fawryinternshiptask\ExpirableProduct.class
+com\mycompany\fawryinternshiptask\Cart.class
+com\mycompany\fawryinternshiptask\CheckoutService.class
+com\mycompany\fawryinternshiptask\DigitalProduct.class
+com\mycompany\fawryinternshiptask\Customer.class
+com\mycompany\fawryinternshiptask\NonExpirableProduct.class
+com\mycompany\fawryinternshiptask\ShippingService.class
