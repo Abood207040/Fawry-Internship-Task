@@ -35,5 +35,5 @@ A Java application simulating a basic e-commerce shopping cart and checkout syst
 
 ## 🧰 Technologies Used
 
-- Java (OOP Concepts: Inheritance, Abstraction, Interfaces, Polymorphism)
+- Java
 
