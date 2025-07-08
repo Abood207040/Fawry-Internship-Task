@@ -1,8 +1,10 @@
-# Fawry Internship Task
+# 📦 Fawry Internship Task
 
-A  Java application simulating a basic e-commerce shopping cart and checkout system. This project showcases fundamental object-oriented programming (OOP) principles in Java, including classes, inheritance, interfaces, and encapsulation. It models a real-world shopping experience, allowing users to interact with various product types, manage their shopping cart, and complete the checkout process.
+A Java application simulating a basic e-commerce shopping cart and checkout system. This project showcases fundamental object-oriented programming (OOP) principles in Java, including classes, inheritance, interfaces, and encapsulation. It models a real-world shopping experience, allowing users to interact with various product types, manage their shopping cart, and complete the checkout process.
 
-## Features
+---
+
+## 🚀 Features
 
 - **Support for Multiple Product Types:**  
   The system accommodates a variety of products, including expirable items (e.g., cheese, biscuits), non-expirable items (e.g., TVs), and digital goods (e.g., scratch cards). Each product type implements its own logic for expiration and shipping.
@@ -22,6 +24,16 @@ A  Java application simulating a basic e-commerce shopping cart and checkout sys
 - **Clean, Extendable Design:**  
   The codebase is structured for readability and ease of extension, making it ideal for future development, experimentation, or educational purposes.
 
-## Technologies Used
+---
 
-- Java
+## 🖥️ Screenshots
+
+### ✅ Example: Successful Paper Book Purchase
+![Screenshot Task 1](screenshots/Screenshot%20Task%201.png)
+
+---
+
+## 🧰 Technologies Used
+
+- Java (OOP Concepts: Inheritance, Abstraction, Interfaces, Polymorphism)
+
